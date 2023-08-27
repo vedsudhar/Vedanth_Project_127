@@ -1,0 +1,45 @@
+body
+{
+   background-color:chartreuse;
+}
+
+#score
+{
+   font-size: large;
+   margin-left: 10px;
+}
+
+
+#timer
+{
+   font-size: large;
+   float: right;
+   margin-right: 10px;
+}
+
+#sketchtobedrawn
+{
+    font-size:large;
+    color: red;
+}
+
+h1
+{
+   color: blue;
+   font-size: 50px;
+}
+
+#show_sketch
+{
+    float: right;
+}
+
+#yoursketch
+{
+    font-size: 30px;
+}
+
+#confidence
+{
+    font-size: 30px;
+}
